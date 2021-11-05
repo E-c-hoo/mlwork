@@ -12,4 +12,4 @@
 为
     ``hog.setSVMDetector(cv2.HOGDescriptor_getDefaultPeopleDetector())``
 可以切换为opencv自带训练好的SVM进行测试。
-dataset文件夹下的数据集为INRIA行人数据集。
+dataset文件夹下的数据集为INRIA行人数据集,请自行下载并放置在对应文件夹下。
